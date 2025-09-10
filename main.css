@@ -17,7 +17,7 @@ body {
 /* Header styles */
 header {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  color: #ffffff;
   padding: 2rem;
   border-radius: 8px;
   margin-bottom: 2rem;
@@ -68,14 +68,14 @@ section p {
 /* Output areas */
 .output {
   background-color: #a5a8d4;
-  border: 1px solid #a5a8d4;
+  border: 10px solid #5158BB;
   border-radius: 6px;
   padding: 1rem;
   margin-top: 1rem;
 }
 
 .output h3 {
-  color: #495057;
+  color: #000000;
   font-size: 1.1rem;
   margin-bottom: 0.75rem;
   font-weight: 500;
@@ -88,11 +88,11 @@ ul {
 }
 
 ul li {
-  background: white;
+  background: #abadce;
   margin-bottom: 0.5rem;
   padding: 0.75rem;
   border-radius: 4px;
-  border-left: 3px solid #28a745;
+  border-left: 3px solid #5158BB;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease;
 }
